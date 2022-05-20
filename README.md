@@ -29,7 +29,11 @@ Models experimented with:
 Conclusion: 
 
 For Linear regression model, MSE and RMSE for training and testing are similar but has very poor R2 for training and testing data.
+
 Lasso regression and Ridge regression R2 increases , but not with significant amount.
+
 We can see that MSE and RMSE of Decision Tree model are not varying much during training and testing time. Also the R2 is almost same for training and testing time.
+
 MSE and RMSE of XGBoost model are very similar and their R2 is 80. 
+
 From above table, we can conclude XGBoost is best model for our dataset.
